@@ -4,6 +4,7 @@ body {
 }
 
 .container {
+    text-align: center;
     width: 85%;
     margin:auto;
     background-color: white;
